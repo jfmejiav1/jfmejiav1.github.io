@@ -7,7 +7,7 @@
 }
 ::selection{
   color: #ffff;
-  background: rgb(142, 73, 232);
+  background: rgb(100, 50, 232);
 }
 body{
   width: 100%;
@@ -22,12 +22,12 @@ body{
   width: 100%;
   margin: 120px auto;
   padding: 25px;
-  border-radius: 5px;
+  border-radius: 10px;
   box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
 }
 .wrapper header{
-  font-size: 30px;
-  font-weight: 600;
+  font-size: 35px;
+  font-weight: 200;
 }
 .wrapper .inputField{
   margin: 20px 0;
