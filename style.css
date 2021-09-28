@@ -41,7 +41,7 @@ body{
   outline: none;
   border-radius: 3px;
   border: 1px solid #ccc;
-  font-size: 17px;
+  font-size: 10px;
   padding-left: 15px;
   transition: all 0.3s ease;
 }
